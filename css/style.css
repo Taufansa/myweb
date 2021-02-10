@@ -1,0 +1,69 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#top-head{
+    margin-bottom: 20px;
+    height: 615px;
+    background-color: rgba(255, 255, 255, 0);
+    width: auto;
+}
+
+#top-content{
+    margin-top: 130px;
+}
+
+#top-bottom{
+    margin-top: 175px;
+}
+
+#about{
+    margin-top: 50px;
+    margin-bottom: 400px;
+    height: 620px;
+    background-color: rgba(255, 255, 255, 0);
+    width: auto;
+}
+
+#about-photo{
+    height: 390px;
+    width: auto;
+}
+
+#skills{
+    height: 800px;
+    background-color: rgba(255, 255, 255, 0);
+    width: auto;
+}
+
+.card{
+    margin: auto;
+      width: 50%;
+      padding: 10px;
+}
+
+
+@media (min-width: 992px) {
+
+    #top-head{
+        margin-bottom: 20px;
+        height: 615px;
+        background-color: rgba(255, 255, 255, 0);
+        width: auto;
+    }
+
+    #top-content{
+        margin-top: 150px;
+    }
+
+    #top-bottom{
+        margin-top: 190px;
+    }
+
+    #about{
+        margin-top: 50px;
+        height: 120px;
+        background-color: rgba(255, 255, 255, 0);
+        width: auto;
+    }
+}
