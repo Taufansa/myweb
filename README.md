@@ -1,2 +1,2 @@
 # taufansamudra.github.io
-Taufan Samudra Akbar Web Portfolio
+Taufan Samudra Web
